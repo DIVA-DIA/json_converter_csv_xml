@@ -1,0 +1,20 @@
+__pycache__/
+data
+*.idea
+*.xml
+*json_data
+*output
+*output_csv
+*command_line.txt
+*Hotspot Annotations Checked
+*test
+*.csv
+*export
+*.mrxs
+*hotspots
+/docs/_build/doctrees/
+/docs/_build/latex/
+/docs/_static/
+/docs/_templates/
+/docs/Makefile
+/docs/*.*
