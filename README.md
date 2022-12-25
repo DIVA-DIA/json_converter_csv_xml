@@ -1,5 +1,5 @@
-# BachelorThesis
-This repository contains my bachelor thesis for my computer science studies at University of Fribourg.
+# JSON Converter
+This repository contains conversions mainly from json data type to xml and csv.
 
 ## Conversion json to xml for whole slide image (./json_converter/json_to_xml.py)
 To convert data from json to xml for whole slide image, you need to use `json_to_xml.py` with the following command lines:
